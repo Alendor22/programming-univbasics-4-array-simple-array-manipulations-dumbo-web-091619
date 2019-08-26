@@ -2,6 +2,6 @@ def using_push(array, string)
   array.push(string)
 end
 
-def using_pop
+def using_
   array.pop
 end
